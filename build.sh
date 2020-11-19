@@ -1,4 +1,4 @@
 clear
-msbuild
-clear
-mono "Discord-Repl.it-Example/bin/Debug/Discord-Repl.it-Example.exe"
+msbuild -m
+
+mono "Pulp/bin/Debug/Pulp.exe"

@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{DBA213B6-BE5E-4724-95EC-89684217A766}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Discord_Repl.it_Example</RootNamespace>
-    <AssemblyName>Discord-Repl.it-Example</AssemblyName>
+    <RootNamespace>Pulp</RootNamespace>
+    <AssemblyName>Pulp</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
